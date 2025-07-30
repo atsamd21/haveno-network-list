@@ -1,10 +1,10 @@
 [
     {
         "networkName": "Test network",
-        "daemonUrl": "https://github.com/atsamd21/haveno/releases/tag/v1.1.2.5"
+        "daemonUrl": "https://github.com/atsamd21/haveno/releases/download/v1.1.2.5"
     },
     {
         "networkName": "RetoSwap",
-        "daemonUrl": "https://github.com/atsamd21/haveno/releases/tag/v1.1.2.6"
+        "daemonUrl": "https://github.com/atsamd21/haveno/releases/download/v1.1.2.6"
     }
 ]
